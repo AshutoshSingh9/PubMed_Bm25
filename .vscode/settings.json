@@ -1,0 +1,14 @@
+{
+  "css.lint.unknownAtRules": "ignore",
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "css",
+    "html": "html",
+    "javascript": "javascript",
+    "javascriptreact": "javascriptreact"
+  },
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/.venv/lib/python3.12/site-packages"
+  ]
+}

@@ -1,0 +1,48 @@
+---
+title: Standards of Medical Care in Diabetes
+source: American Diabetes Association (Abstracted for system testing)
+year: 2024
+---
+
+# 1. Classification and Diagnosis
+Diabetes is classified into the following general categories:
+1. Type 1 diabetes: Due to autoimmune beta-cell destruction, usually leading to absolute insulin deficiency.
+2. Type 2 diabetes: Due to a progressive loss of adequate beta-cell insulin secretion frequently on the background of insulin resistance.
+3. Specific types of diabetes due to other causes, e.g., monogenic diabetes syndromes (such as neonatal diabetes and maturity-onset diabetes of the young), diseases of the exocrine pancreas (such as cystic fibrosis and pancreatitis), and drug- or chemical-induced diabetes.
+4. Gestational diabetes mellitus (GDM): Diabetes diagnosed in the second or third trimester of pregnancy that was not clearly overt diabetes prior to gestation.
+
+## Diagnostic Criteria
+- Fasting Plasma Glucose (FPG) ≥ 126 mg/dL (7.0 mmol/L). Fasting is defined as no caloric intake for at least 8 h. OR
+- 2-h PG ≥ 200 mg/dL (11.1 mmol/L) during OGTT. The test should be performed as described by the WHO, using a glucose load containing the equivalent of 75 g anhydrous glucose dissolved in water. OR
+- A1C ≥ 6.5% (48 mmol/mol). The test should be performed in a laboratory using a method that is NGSP certified and standardized to the DCCT assay. OR
+- In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose ≥ 200 mg/dL (11.1 mmol/L).
+
+*In the absence of unequivocal hyperglycemia, diagnosis requires two abnormal test results from the same sample or in two separate test samples.*
+
+# 2. Pharmacologic Approaches to Glycemic Treatment
+## Type 1 Diabetes
+- Most people with type 1 diabetes should be treated with multiple daily injections of prandial and basal insulin, or continuous subcutaneous insulin infusion.
+- Most individuals with type 1 diabetes should use rapid-acting insulin analogs to reduce hypoglycemia risk.
+- Individuals with type 1 diabetes should receive education on how to match mealtime insulin doses to carbohydrate intake, fat and protein content, and anticipated physical activity.
+
+## Type 2 Diabetes
+- Metformin is the preferred initial pharmacologic agent for the treatment of type 2 diabetes.
+- Early introduction of insulin should be considered if there is evidence of ongoing catabolism (weight loss), if symptoms of hyperglycemia are present, or when A1C levels (>10% [86 mmol/mol]) or blood glucose levels (≥300 mg/dL [16.7 mmol/L]) are very high.
+- In patients with established atherosclerotic cardiovascular disease (ASCVD) or indicators of high risk, established kidney disease, or heart failure, a sodium–glucose cotransporter 2 (SGLT2) inhibitor or glucagon-like peptide 1 (GLP-1) receptor agonist with demonstrated cardiovascular disease benefit is recommended as part of the glucose-lowering regimen independent of A1C.
+
+## Metformin Use
+- Consider initiating metformin in individuals with predominant insulin resistance.
+- Periodic measurement of vitamin B12 levels should be considered in metformin-treated patients, especially in those with anemia or peripheral neuropathy.
+- Metformin is contraindicated in patients with an estimated glomerular filtration rate (eGFR) <30 mL/min/1.73 m².
+
+# 3. Cardiovascular Disease and Risk Management
+- Cardiovascular disease is the leading cause of morbidity and mortality for individuals with diabetes.
+- Blood pressure should be measured at every routine clinical visit.
+- Treatment goal for individuals with diabetes and hypertension should be <130/80 mmHg if it can be safely achieved.
+- For primary prevention, statin therapy should be added to lifestyle therapy for patients 40-75 years of age.
+- For secondary prevention, high-intensity statin therapy should be used.
+
+# 4. Diabetic Kidney Disease (DKD)
+- Optimize blood glucose control to reduce the risk or slow the progression of DKD.
+- Optimize blood pressure control to reduce the risk or slow the progression of DKD.
+- For patients with type 2 diabetes and diabetic kidney disease, use of an SGLT2 inhibitor is recommended to reduce CKD progression and cardiovascular events in patients with an eGFR ≥20 mL/min/1.73 m² and urinary albumin ≥200 mg/g creatinine.

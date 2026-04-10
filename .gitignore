@@ -1,0 +1,21 @@
+# Environments
+venv/
+.venv/
+env/
+.env
+node_modules/
+nlp_dashboard/node_modules/
+__pycache__/
+*.pyc
+
+# DB & Data
+chroma_db/
+*.db
+*.sqlite3
+*.log
+
+# Mac
+.DS_Store
+
+# Streamlit
+.streamlit/
